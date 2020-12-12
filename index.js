@@ -2,11 +2,11 @@
 * "Jangan modal nama doang bro!!!"
 * (Scriptnya Aris187 ID).
 */
-const BotName = '👾RIZKY RIDHO PRATAMA BOT👾'; // Nama Bot Whatsapp
+const BotName = '👾RIZKY RIDHO PRATAMA👾'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/rizki_ridho636'; // Nama Instagramlu cok
 const whatsapplu = 'Wa.me/087840411119'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Tergantung jaringan'; // Kapan bot lu aktif
-const grupch1 = 'KOSONG'; // OFFICIAL GRUP LU 1
+const grupch1 = 'https://chat.whatsapp.com/IBSz1ZHtfdP6mP3eQVcqem'; // OFFICIAL GRUP LU 1
 const grupch2 = 'KOSONG'; // OFFICIAL GRUP LU 2
 const grupch3 = 'KOSONG'; // OFFICIAL GRUP LU 3
 //
